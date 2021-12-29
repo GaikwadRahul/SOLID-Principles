@@ -1,4 +1,6 @@
 """
+Single Responsibility Principle
+
 A class should have only one job.
 If a class has more than one responsibility, it becomes coupled.
 A change to one responsibility results to modification of the other responsibility.
