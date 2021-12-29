@@ -1,5 +1,6 @@
 """
-Open and Closed Principle(OCP):
+Open and Closed Principle
+
 Software entities (classes, function, module) open for extension, but not for modification (or closed for modification)
 """
 
